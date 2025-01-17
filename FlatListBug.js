@@ -1,0 +1,1 @@
+This React Native bug occurs when using the FlatList component with a large dataset and complex item rendering.  The performance degrades significantly, leading to slow scrolling and janky animations. This is often due to inefficient rendering or excessive re-renders of list items.
